@@ -5,7 +5,7 @@ Este projeto permite visualizar sinais PWM (Pulse Width Modulation) gerados a pa
 
 ### Clone o repositório
 ```bash
-git clone https://github.com/JoaoVictorFBarros/Bit_Error_Rate.git
+git clone https://github.com/JoaoVictorFBarros/Pulse_width_Modulation.git
 ```
 
 
